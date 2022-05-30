@@ -1,0 +1,19 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "git.ignoreLimitWarning": true,
+		"todohighlight.isEnable": true,
+		"todohighlight.toggleURI": true,
+		"workbench.colorTheme": "Electron vue darker",
+		"editor.quickSuggestions": {
+			"strings": true,
+		},
+		// "[vue]": {
+		// 	"editor.defaultFormatter": "esbenp.prettier-vscode"
+		// },
+  }
+}
